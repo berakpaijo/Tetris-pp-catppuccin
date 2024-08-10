@@ -4,7 +4,7 @@
 
 A full repository about the catppuccin theme on [Tetris++ by LordPaijo](https://github.com/berakpaijo/Raylib-Tetris-pp)
 
-**Catppuccin Theme: ()[https://github.com/catppuccin/catppuccin]**
+**Catppuccin Theme: [https://github.com/catppuccin/catppuccin]**
 
 ## Installation
 
